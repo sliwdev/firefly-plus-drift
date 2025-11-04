@@ -9,7 +9,7 @@
 ---
 
 **Why?**  
-Firefly syncs every 1s → ~6–8 ns error.  
+Firefly syncs every 1s (by default) → ~6–8 ns error.  
 But drift is predictable.  
 → Sync every **5s** + light probes → same accuracy, 5× less traffic.
 
