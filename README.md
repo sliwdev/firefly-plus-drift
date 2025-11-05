@@ -15,5 +15,4 @@ But drift is predictable.
 
 ---
 
-**PoC only.** Pull requests welcome.  
-If you break time, tag me.
+**PoC only.** Pull requests welcome.
